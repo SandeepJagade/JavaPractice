@@ -1,6 +1,6 @@
 package com.jagade;
 
-public class AssignmentPrograms {
+public class AssignmentPrograms15 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -33,7 +33,7 @@ public class AssignmentPrograms {
 		int a = 20 ;
 		int b = 20 ;
 		
-		System.out.println("a: "+a+ " b: "+b);
+		System.out.println("a: "+a+ " +9b: "+b);
 		
 		if(a>b) {
 			System.out.println("a is Largest");
